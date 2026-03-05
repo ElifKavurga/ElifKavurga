@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Hakkımda
 
-- 🎓 **İnönü Üniversitesi** — Yazılım Mühendisliği (2023–2027) | AGNO: 3.31
+- 🎓 **İnönü Üniversitesi** — Yazılım Mühendisliği (2023–2027) 
 - 🏆 **T3 Vakfı** — Sen Geleceksin Bursiyeri (2026 – Devam Ediyor)
 - 🚀 **İnönü Teknofest Topluluğu** — Yönetim Kurulu Üyesi & Sosyal Sorumluluk Ekibi Başkanı
 - 🌱 Şu an öğreniyorum: **Jakarta EE, Vue, Microservices**
@@ -74,14 +74,6 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-## 🐍 My Contributions Snake
-
-<div align="center">
-
-![snake gif](https://github.com/ElifKavurga/ElifKavurga/blob/output/github-contribution-grid-snake.gif)
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
