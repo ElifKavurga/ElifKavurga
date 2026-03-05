@@ -4,7 +4,7 @@
 
 # Merhaba, ben Elif 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Java+%26+Spring+Boot+Developer;Mobile+Developer+%F0%9F%93%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Yazilim+Muhendisligi+Ogrencisi;Java+%26+Spring+Boot+Gelistirici;Mobil+Gelistirici+%F0%9F%93%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ## 🧑‍💻 Hakkımda
 
 - 🎓 **İnönü Üniversitesi** — Yazılım Mühendisliği
-- 🏆 **T3 Vakfı** — Sen Geleceksin Bursiyeri 
+- 🏆 **T3 Vakfı** — Sen Geleceksin Bursiyeri
 - 🚀 **İnönü Teknofest Topluluğu** — Yönetim Kurulu Üyesi & Sosyal Sorumluluk Ekibi Başkanı
 - 🌱 Şu an öğreniyorum: **Jakarta EE, Vue, Microservices**
 
@@ -67,14 +67,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ElifKavurga&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📬 Bana Ulaş
@@ -91,7 +83,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ElifKavurga&color=ff69b4&style=for-the-badge)
+![Profil Görüntülenme](https://komarev.com/ghpvc/?username=ElifKavurga&color=ff69b4&style=for-the-badge)
 
 ⭐ **Profilimi beğendiysen repolarıma göz atmayı unutma!**
 
