@@ -12,8 +12,8 @@
 
 ## 🧑‍💻 Hakkımda
 
-- 🎓 **İnönü Üniversitesi** — Yazılım Mühendisliği (2023–2027) 
-- 🏆 **T3 Vakfı** — Sen Geleceksin Bursiyeri (2026 – Devam Ediyor)
+- 🎓 **İnönü Üniversitesi** — Yazılım Mühendisliği
+- 🏆 **T3 Vakfı** — Sen Geleceksin Bursiyeri 
 - 🚀 **İnönü Teknofest Topluluğu** — Yönetim Kurulu Üyesi & Sosyal Sorumluluk Ekibi Başkanı
 - 🌱 Şu an öğreniyorum: **Jakarta EE, Vue, Microservices**
 
